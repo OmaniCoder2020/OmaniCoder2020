@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmaniCoder2020
-- 👀 I’m interested in ... Web Development , BlockCahin
+- 👀 I’m interested in ... Web Development , Blockchain
 - 🌱 I’m currently learning ... Web Development , Computer Science
 - 📫 How to reach me ... alabdaliesmail@gmail.com
 
